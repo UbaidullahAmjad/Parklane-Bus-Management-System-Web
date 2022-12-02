@@ -29,3 +29,25 @@ We have dedicated teams for each separate phase which include Requirement Engine
 This ensures on-time and quality deliverables to our clients by meeting and implementing their every business requirement.
 
 # Modules
+We developed a complete website system for the business that is capable enough of meeting every business logic of stakeholders. Following are the modules
+## Admin Module
+This is the main admin module that manages and controls all the functionalities of the system. Following are the functionalities that can be performed by the admin.
+- View Stats
+- Bus Management
+- Booking Management
+- Customized Site Setting
+- Travel Trip and Info Management
+- Feedback Management
+- News and Update Management
+- User Management
+## User Module
+This is the public side where the user directly interacts and performs all the required actions which are needed for the normal working of the system. Following are the actions that which user can perform
+- View Details
+- Make Appointments
+- View News
+- View Notifications
+- Newsletter Subscription
+- Schedule Trip
+- Contact to admin
+- Provide Feedback
+
