@@ -1,0 +1,450 @@
+
+@media (min-width:992px) and (max-width:1240px){
+    .navbar .navbar-brand {
+        margin: 0 20px;
+        max-width: 90px;
+    }
+    .menu-wrapp .navbar .navbar-nav .nav-item .nav-link {
+        font-size: 14px;
+        margin: 0 20px 0 0;
+    }
+    .call-to-action h2 {
+        font-size: 48px;
+    }
+    .call-to-action a {
+        font-size: 24px;
+    }
+    .right-blog-info .d-flex p {
+        margin-right: 20px;
+    }
+}
+@media (min-width:992px) and (max-width:1100px){
+    .menu-wrapp .navbar .navbar-nav .nav-item .nav-link {
+        font-size: 13px;
+        margin: 0 10px 0 0;
+    }
+    .menu-contact h4 {
+        font-size: 18px;
+    }
+}
+@media (max-width:1024px){
+    .owl-prev {
+        left: 20px;
+    }
+    .owl-next {
+        right: 20px;
+    }
+    .banner .item .banner-text {
+        padding: 250px 0 100px 0;
+    }
+    .choose-bus-box h4, .choose-bus-box .bus-info h4 {
+        font-size: 20px;
+    }
+    .bus-tabs .nav-tabs .nav-item .nav-link, .bus-tabs .nav-tabs .nav-link {
+        min-width: 200px;
+        margin: 0 10px;
+    }
+    .call-to-action a {
+        font-size: 20px;
+    }
+    .call-to-action h2 {
+        font-size: 38px;
+    }
+}
+@media (max-width:991px){
+    .navbar-collapse {
+        align-items: center;
+        position: absolute;
+        top: 112%;
+        left: 0;
+        right: 0;
+        background: #1B92C8;
+        border-radius: 20px;
+        padding: 20px 20px;
+        box-shadow: 0 10px 30px 0 rgba(0,0,0,0.5);
+    }
+    .menu-contact {
+        padding: 20px 30px 20px 35px;
+    }
+    .menu-contact span.phone-icon, .menu-contact span.bg-white {
+        height: 50px;
+        width: 50px;
+        left: -25px;
+        padding: 12px;
+    }
+    .menu-contact span.bg-white {
+        height: 58px;
+        width: 58px;
+        left: -29px;
+    }
+    .menu-wrapp .navbar .navbar-nav .nav-item .nav-link {
+        display: inline-block;
+        margin: 15px 0;
+    }
+    .banner .item .banner-text h1 {
+        font-size: 50px;
+        line-height: 70px;
+    }
+    .banner .item .banner-text p {
+        font-size: 30px;
+        line-height: 50px;
+    }
+    .booking-heading h2 {
+        font-size: 50px;
+        line-height: 60px;
+    }
+    .booking-form .form-control {
+        height:50px;
+        padding: 0 20px;
+        font-size:18px;
+    }
+    .booking-form .form-btn {
+        height:50px;
+        font-size:18px;
+    }
+    .form-icon span {
+        right: 20px;
+        top: 13px;
+        max-width: 18px;
+    }
+    .booking-heading {
+        padding-right: 0;
+    }
+    .booking-heading h2 {
+        font-size: 70px;
+        line-height: 80px;
+        margin: 20px 0 15px 0;
+    }
+    .top-banner-left a{
+        margin: 0 20px 0 0;
+    }
+    .bus-tabs .nav-tabs {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .bus-tabs .nav-tabs .nav-item .nav-link, .bus-tabs .nav-tabs .nav-link {
+        font-size: 18px;
+        min-width: 230px;
+        margin: 0 5px 10px 5px;
+    }
+    .right-blog-box .img-holder {
+        position: relative;
+        width: 100%;
+        height: 100%;
+        min-height: 250px;
+    }
+    .right-blog-box .right-blog-info {
+        max-width: 100%;
+        padding: 0 20px 30px 20px;
+    }
+    .choose-bus-box h4, .choose-bus-box .bus-info h4 {
+        font-size: 15px;
+    }
+    .choose-bus-box a {
+        font-size: 16px;
+    }
+    .call-to-action {
+        text-align: center;
+    }
+    .call-to-action a {
+        width: 50%;
+        text-align: center;
+        margin:30px auto 0 auto;
+    }
+    .call-to-action h2 {
+        font-size: 50px;
+    }
+    .blog-section,
+    .choose-bus{
+        padding: 40px 0;
+    }
+    .pie-wrapper .pie .half-circle {
+		border: 10px solid #1B92C8;
+	}
+	.pie-wrapper, .pie-wrapper .pie,
+	.pie-wrapper .pie .half-circle {
+		width: 110px;
+        height: 110px;
+	}
+	.pie-wrapper .label {
+        width: 70px;
+        height: 70px;
+    }
+	.pie-wrapper .label h2 {
+		font-size: 36px;
+	}
+	.pie-wrapper .label h2 small {
+		font-size: 14px;
+	}
+	.pie-wrapper .pie .half-circle {
+		height: 110px;
+	}
+	.pie-wrapper {
+		height: 110px;
+	}
+    .pie-wrapper.progress-full .pie .right-side {
+        -webkit-transform: rotate(249deg);
+        -moz-transform: rotate(249deg);
+        transform: rotate(249deg);
+    }
+    .travel-detail .col {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 33.33%;
+        flex: 0 0 33.33%;
+        max-width: 33.33%;
+    }
+    .bus-information-wrapp {
+        margin-bottom: 30px;
+    }
+    .payment-method {
+        margin: 0 0 70px 0;
+    }
+}
+@media (max-width:767px){
+    .top-banner-left a,
+    .top-banner-right a {
+        font-size: 16px;
+        margin: 0 10px 0 0;
+    }
+    .top-banner-left a i {
+        font-size: 14px;
+        margin-right: 3px;
+    }
+    .menu-contact {
+        padding: 10px 20px 10px 25px;
+    }
+    .menu-contact h4 {
+        font-size: 16px;
+    }
+    .navbar .navbar-brand {
+        max-width: 70px;
+        margin: 0;
+    }
+    .menu-contact span.phone-icon, .menu-contact span.bg-white {
+        height: 30px;
+        width: 30px;
+        left: -15px;
+        padding: 7px;
+    }
+    .menu-contact span.bg-white {
+        height: 38px;
+        width: 38px;
+        left: -19px;
+    }
+    .banner .item .banner-text h1 {
+        font-size: 50px;
+        line-height:60px;
+    }
+    .banner .item .banner-text p {
+        font-size: 25px;
+        line-height:30px;
+    }
+    .bus-tabs .nav-tabs {
+        margin-bottom: 40px;
+    }
+    .copyright {
+        padding: 30px 0;
+        margin-top: 60px;
+        text-align: center;
+        display:block;
+    }
+    .copyright-link a {
+        padding: 0 20px;
+    }
+    .copyright-link a::after {
+        right: -5px;
+    }
+    .company-info .text-holder {
+        margin-bottom: 30px;
+    }
+    .read-more-wrapp {
+        margin-bottom: 30px;
+    }
+    .safety-measures .img-holder {
+        margin-bottom: 30px;
+    }
+    .create-account {
+        margin-top: 10px;
+    }
+    .travel-detail .col {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 50%;
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+    .user-updation .nav-tabs .nav-item .nav-link {
+        padding: 5px 10px;
+        margin: 0 5px 5px 0;
+        font-size: 14px;
+    }
+}
+@media(max-width:526px)
+{
+    .bus-tabs .nav-tabs .nav-item {
+        display: grid;
+        justify-content: center;
+    }
+    .choose-bus-box{
+        flex-wrap: wrap;
+    }
+}
+@media (max-width:575px){
+    .top-banner-right,
+    .top-banner-left{
+        text-align: center;
+    }
+    .banner .item .banner-text {
+        padding: 250px 15px 90px 15px;
+    }
+    .banner .item .banner-text h1 {
+        font-size: 50px;
+        line-height: 60px;
+    }
+    .banner .item .banner-text p {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .owl-prev,
+    .owl-next{
+        display:none;
+    }
+    .banner .item .banner-text {
+        padding: 250px 0 90px 0;
+    }
+    .booking-heading {
+        margin: 0 0 30px 0;
+    }
+    .booking-heading h2 {
+        font-size: 50px;
+        line-height: 60px;
+        margin: 10px 0 5px 0;
+    }
+    .bus-tabs .nav-tabs .nav-item,
+    .bus-tabs .nav-tabs .nav-item {
+        width: 100%;
+        justify-content: center;
+    }
+    .call-to-action h2 {
+        font-size: 40px;
+    }
+    .call-to-action a {
+        font-size: 24px;
+        padding: 10px 20px;
+        width: 100%;
+    }
+    .call-to-action h2 {
+        font-size: 40px;
+        line-height: 40px;
+    }
+    .heading h2 {
+        font-size: 34px;
+        line-height: 40px;
+    }
+    .choose-bus-box .bus-info h4 {
+        font-size: 16px;
+        margin: 5px 0;
+    }
+    .pie-wrapper, .pie-wrapper .pie,
+    .pie-wrapper .pie .half-circle {
+        width: 60px;
+        height: 60px;
+    }
+    .pie-wrapper .pie .half-circle {
+        height: 60px;
+    }
+    .pie-wrapper .pie .half-circle {
+        border:none;
+    }
+    .progress-wrapp p {
+        font-size: 10px;
+        margin: 5px 0 0 0;
+    }
+    .progress-wrapp {
+        margin: 40px 0;
+    }
+    .travel-detail .col {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+}
+@media (max-width:480px){
+    .menu-wrapp .navbar {
+        padding:5px 10px 5px 0;
+        -ms-flex-wrap: nowrap;
+        flex-wrap: nowrap;
+    }
+    .navbar-toggler {
+        margin: 0 0 0 10px;
+    }
+    .menu-contact {
+        background: transparent;
+        padding:0;
+        border-radius:0;
+        border-left:none;
+    }
+    .menu-contact::after,
+    .menu-contact span.phone-icon,
+    .menu-contact span.bg-white{
+        display: none;
+    }
+    .navbar .navbar-brand {
+        margin: 0;
+        max-width: 80px;
+    }
+    .menu-contact h4 {
+        font-size: 14px;
+        padding: 0 10px 0 0;
+    }
+    .banner .item .banner-text {
+        padding: 250px 15px 50px 15px;
+    }
+    .banner .item .banner-text h1 {
+        font-size: 32px;
+        line-height: 40px;
+    }
+    .banner .item .banner-text p {
+        font-size: 22px;
+        line-height: 30px;
+    }
+    .banner .item .banner-text a.banner-btn{
+        font-size: 20px;
+        line-height: normal;
+        padding: 10px 60px;
+        margin: 20px 0 0 0;
+    }
+    .blog-left-section h4 a {
+        font-size: 22px;
+        margin-bottom: 20px;
+    }
+    .footer-box p,
+    .footer-link li a,
+    .footer-info a {
+        font-size: 16px;
+    }
+    .footer-box h4 {
+        font-size: 30px;
+        margin-bottom: 15px;
+    }
+    .copyright {
+        font-size: 16px;
+    }
+    .copyright-link a::after {
+        top: 5px;
+    }
+    .bus-information-wrapp-footer ul {
+        display: block;
+    }
+    .bus-information-wrapp-footer ul li {
+        padding: 3px 0;
+    }
+    .user-information .user-btn a {
+        padding: 5px 15px;
+        margin: 0 5px 0 0;
+        font-size: 12px;
+    }
+    .user-updation .nav {
+        display: block;
+    }
+}
